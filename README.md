@@ -65,7 +65,7 @@
 </head>
 <body>
 <main>
-  <h1>NOME DO JOGO</h1>
+  <h1>FRUMBELOOM</h1>
   <p class="sub">Um jogo de plataforma 2D feito em GameMaker.</p>
 
   <h2>Sobre o jogo</h2>
@@ -85,7 +85,7 @@
     <div class="linha"><span>Trocar de arma</span><kbd>P</kbd></div>
   </div>
 
-  <footer>Criado por [seu nome]. Obrigado por jogar.</footer>
+  <footer>Criado pelo 1°MIN. Obrigado por jogar.</footer>
 </main>
 </body>
 </html>
